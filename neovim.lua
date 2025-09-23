@@ -1,9 +1,11 @@
 return {
-  { "tahayvr/matteblack.nvim", lazy = false, priority = 1000 },
-  {
-		"LazyVim/LazyVim",
-		opts = {
-			colorscheme = "matteblack",
-		},
+	{
+		"datsfilipe/vesper.nvim",
+		lazy = false, -- Garante que o tema seja carregado na inicialização
+		priority = 1000, -- Garante que seja o primeiro a ser carregado
+		config = function()
+			vim.cmd.colorscheme("vesper")
+		end,
 	},
 }
+
