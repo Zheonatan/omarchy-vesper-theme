@@ -16,9 +16,11 @@ The goal of this port is to bring the same aesthetics, color scheme, and overall
 
 1. Press **Super + Alt + Space** to open the Omarchy menu.  
 2. Select: **Install > Style > Theme**  
-3. Paste the link below and press **Enter**: 
-```https://github.com/Zheonatan/omarchy-vesper-theme.git``` 
+3. Paste the link below and press **Enter**:
 
+```bash
+https://github.com/Zheonatan/omarchy-vesper-theme.git
+```
 ---
 
 ## Special Thanks
