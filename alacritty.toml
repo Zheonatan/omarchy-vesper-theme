@@ -1,7 +1,4 @@
-# ────────────────────────────────────────────────────────────
-# Omarchy Custom Theme for Alacritty
-# Generated with Omarchist
-# ────────────────────────────────────────────────────────────
+
 
 [colors]
 [colors.primary]
@@ -10,8 +7,8 @@ foreground = "#d4d4d4"
 dim_foreground = "#A0A0A0"
 
 [colors.cursor]
-text = "#ffffff"
-cursor = "#343434"
+text = "CellBackground"
+cursor = "#ffffff"
 
 [colors.selection]
 text = "CellForeground"
